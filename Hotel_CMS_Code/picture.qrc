@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Picture/mainwindow.jpg</file>
+        <file>Picture/arrowRight.png</file>
+        <file>Picture/login.jpg</file>
+        <file>Picture/regi.jpg</file>
+        <file>Picture/root_login.jpg</file>
+        <file>Picture/root_regi.jpg</file>
+        <file>Picture/hotellogin.jpg</file>
+        <file>Picture/hotelregister.jpg</file>
+        <file>Picture/platform.jpg</file>
+        <file>Picture/showroom.jpg</file>
+        <file>Picture/hotelconfirm.jpg</file>
+        <file>Picture/showpay.jpg</file>
+        <file>Picture/WeChatPay.jpg</file>
+        <file>Picture/Alipay.jpg</file>
+        <file>Picture/score.jpg</file>
+        <file>Picture/hotelshow.jpg</file>
+        <file>Picture/saledetail.jpg</file>
+        <file>Picture/ordercontroller.jpg</file>
+        <file>Picture/addroom.jpg</file>
+    </qresource>
+</RCC>
